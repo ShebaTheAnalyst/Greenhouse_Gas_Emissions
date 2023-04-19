@@ -1,2 +1,6 @@
 # Greenhouse_Gas_Emissions
 Greenhouse Gas Emissions Dashboard Montgomery County, Maryland 2019 - 2022
+
+This dashboard illustrates the emission of greenhouse gas in Montgomery County, Maryland. It depicts the totals of emissions produced by specific facilities and vehicles. Examples of facilities include recreation, libraries, theater and arts, health and human services,  courthouses, maintenance facilities, correctional facilities, police stations, fire stations, volunteer fire stations, garages, parking lots, bus shelters and park & ride locations. These facilities use the following fuel sources: grid electricity, natural gas, propane and diesel fuel. Examples of vehicles include mass transit buses, snowplows, light duty trucks, police cars, fire engines and fire service equipment, etc. Each County vehicle uses a different fuel source (i.e. diesel, mobile diesel, compressed natural gas, unleaded and E-85). These examples DO NOT include Montgomery County Public School facilities, Montgomery College facilities, Montgomery city and neighborhood parks, and Montgomery county busses and park vehicles. 
+
+https://public.tableau.com/app/profile/sheba.morgan/viz/GreenhouseGasEmissions_16819451690930/Dashboard1
